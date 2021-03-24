@@ -1,2 +1,6 @@
-# TallerUnity
-Material del taller de Unity per a la Setmana Cultural de Cicles
+# Taller de Unity
+
+En aquest repositori trobareu els materials i exemples per al taller de Unity.
+
+## Continguts
+
